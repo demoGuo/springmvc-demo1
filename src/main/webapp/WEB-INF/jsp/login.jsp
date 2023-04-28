@@ -20,7 +20,7 @@
     justify-content: center !important;
 }
 .login-center {
-    background: #00F7DE;
+    background: #01AAED;
     min-width: 38.25rem;
     padding: 2.14286em 3.57143em;
     border-radius: 5px;
